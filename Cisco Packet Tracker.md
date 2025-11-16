@@ -17,6 +17,12 @@ Here are a number of things that can be done using this software:
 
 <img src="assets/demo1.png" width="550">
 
-Here I created a simple, small home network with a home router, wireless laptop, wired PC, and front door camera!
-The two tabs open allowed me to customize the configurations of each of the devices.
+Here I created a simple, small home network with a home router, wireless laptop, wired PC, and front door camera!  
+The two tabs open allowed me to customize the configurations of each of the devices.  
 I customized the laptop by changing it from a wired connection to a wireless connection by installing the WPC300N module onto the laptop.
+
+<img src="assets/ptta1.png" width="550">
+
+Here I am working with a packet tracer tutored activity (PTTA).  
+I installed a backup router and connected a laptop to it.  
+I then reconfigured the laptop's hostname to be "Edge_Backup_Router" using the endpoint's command line interface (CLI).  
