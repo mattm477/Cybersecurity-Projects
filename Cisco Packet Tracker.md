@@ -26,3 +26,10 @@ I customized the laptop by changing it from a wired connection to a wireless con
 Here I am working with a packet tracer tutored activity (PTTA).  
 I installed a backup router and connected a laptop to it.  
 I then reconfigured the laptop's hostname to be "Edge_Backup_Router" using the endpoint's command line interface (CLI).  
+
+The Cisco Packet Tracer software has the ability to produce 4 different types of files.
+1) .pka files are "activity" files that have instructions and scoring
+2) .pkt files are pre-built network simulations that have no instructions or scoring
+3) .pksz files are exclusive to PTTA activities
+4) .pkz files are depreciated file types originally meant to imbed images and other files in packet tracer files
+  
