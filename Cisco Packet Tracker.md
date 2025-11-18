@@ -33,3 +33,8 @@ The Cisco Packet Tracer software has the ability to produce 4 different types of
 3) .pksz files are exclusive to PTTA activities
 4) .pkz files are depreciated file types originally meant to imbed images and other files in packet tracer files
   
+<img src="assets/simplenetwork.png" width="550">
+
+Here I made a simple network that had a cable modem that connected to a server called "cisco.crv".  
+There were 2 other end devices that were connected to a router.
+I manually configured their connectivity, both wired and wireless using a copper straight-through cable.
