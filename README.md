@@ -43,3 +43,9 @@ The Cisco Packet Tracer software has the ability to produce 4 different types of
 Here I made a simple network that had a cable modem that connected to a server called "cisco.crv".  
 There were 2 other end devices that were connected to a router.
 I manually configured their connectivity, both wired and wireless using a copper straight-through cable.
+
+11/19/25
+
+At this point, the tutorial is finished, but I thought I'd simulate a real network topology.  
+Another project of mine, Count Me In, aims to build a sensor-based room occupancy tracker for Rutgers study areas.
+I figured I'd simulate the network topology before my team and I go into the implementation phase.
