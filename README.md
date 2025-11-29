@@ -60,3 +60,25 @@ I started by selecting all of my hardware devices for this simulation.
 - A central wireless access point (WAN)
 - A 4331 router for its flexibility
 - A cloud object that represents storage, processing, and projection of data
+
+11/21/25-11/29/25
+
+<img src="assets/topology2.png" width="550">
+
+I then connected the sensors to the SBCs using custom IoT cables representing ground, power, and data.
+
+<img src="assets/topology3.png" width="550">
+
+After which, I connected the SBCs to the WAN using SSID matching.
+In this case, the SSID was "countmein" as seen in the configuration tab.
+
+<img src="assets/topology4.png" width="550">
+
+Then I connected the WAN to the 4331 using an ethernet cable and turned on port status to allow the connection to become active and show GREEN.
+
+<img src="assets/topology5.png" width="550">
+
+After which I configured the cloud to accept a modem to ethernet6 connection using DSL.
+Same as the router, I turned on the port status and the connection was made.
+
+Overall, this simulates the sensor network topology that would support our solution.
