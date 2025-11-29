@@ -53,3 +53,10 @@ I figured I'd simulate the network topology before my team and I go into the imp
 11/19/25-11/21/25
 
 <img src="assets/topology1.png" width="550">
+
+I started by selecting all of my hardware devices for this simulation.
+- Sensors in different busy study areas around Rutgers
+- Single board computers (SBCs)
+- A central wireless access point (WAN)
+- A 4331 router for its flexibility
+- A cloud object that represents storage, processing, and projection of data
