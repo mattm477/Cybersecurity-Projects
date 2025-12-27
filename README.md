@@ -79,6 +79,6 @@ Then I connected the WAN to the 4331 using an ethernet cable and turned on port 
 <img src="assets/topology5.png" width="550">
 
 After which I configured the cloud to accept a modem to ethernet6 connection using DSL.
-Same as the router, I turned on the port status and the connection was made.
+Same as the router, I turned on the port status and the connection was madOverall, this simulates the sensor network topology that would support our solution.
 
-Overall, this simulates the sensor network topology that would support our solution.
+This is the basic skeleton for our sensor network topology.
